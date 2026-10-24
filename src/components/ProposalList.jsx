@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+ import React, { useState } from 'react';
 import ProposalCard from './ProposalCard';
 import EmptyState from './EmptyState';
 import { Search, Filter } from 'lucide-react';
